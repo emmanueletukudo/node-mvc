@@ -1,6 +1,6 @@
 # node-mvc
 
-node-mvc is a CLI to scaffold new nodejs projects using the MVC design pattern. Architect your API-driven application from the ground up using the Layered-architecture approach.
+node-mvc is a CLI to scaffold new `nodejs` projects using the MVC design pattern. It helps you architect your API-driven `nodejs` application from the ground up using the Layered-architecture approach.
 
 ## Installation
 
