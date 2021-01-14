@@ -1,0 +1,38 @@
+{
+  "name": "@eetukudo/node-mvc",
+  "version": "1.0.0",
+  "description": "A CLI to scafold new nodejs projects using the MVC design partten.",
+  "main": "index.js",
+  "bin": {
+    "@eetukudo/node-mvc": "bin/node-mvc",
+    "node-mvc": "bin/node-mvc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "cli",
+    "node-mvc",
+    "SoC"
+  ],
+  "author": "Emmanuel Etukudo",
+  "license": "MIT",
+  "dependencies": {
+    "arg": "^5.0.0",
+    "chalk": "^4.1.0",
+    "esm": "^3.2.25",
+    "execa": "^5.0.0",
+    "inquirer": "^7.3.3",
+    "listr": "^0.14.3",
+    "ncp": "^2.0.0",
+    "pkg-install": "^1.0.0"
+  },
+  "files": [
+    "bin/",
+    " src/",
+    "templates/"
+  ]
+}
