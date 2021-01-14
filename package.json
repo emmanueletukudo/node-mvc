@@ -1,7 +1,7 @@
 {
   "name": "@eetukudo/node-mvc",
   "version": "1.0.0",
-  "description": "A CLI to scafold new nodejs projects using the MVC design partten.",
+  "description": "A CLI to scaffold new nodejs projects using the MVC design pattern.",
   "main": "index.js",
   "bin": {
     "@eetukudo/node-mvc": "bin/node-mvc",
@@ -32,7 +32,7 @@
   },
   "files": [
     "bin/",
-    " src/",
+    "src/",
     "templates/"
   ]
 }
