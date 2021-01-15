@@ -1,6 +1,6 @@
 {
   "name": "@eetukudo/node-mvc",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A CLI to scaffold new nodejs projects using the MVC design pattern.",
   "main": "index.js",
   "bin": {
