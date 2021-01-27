@@ -18,7 +18,7 @@ const users = require("./routes/user.routes");
 //mongoose.connect(process.env.mongoURI, {useNewUrlParser: true, useCreateIndex: true, useUnifiedTopology: true })
 
 //app config
-app.use(express.json);
+app.use(express.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
